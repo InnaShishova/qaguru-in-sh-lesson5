@@ -9,6 +9,6 @@ build/
 *.iml
 *.ipr
 *.idea
-.idea*
+.idea
 
 
