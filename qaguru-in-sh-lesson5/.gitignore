@@ -8,6 +8,4 @@ build/
 *.iws
 *.iml
 *.ipr
-*.idea
-.idea
-*.idea*
+.idea/
