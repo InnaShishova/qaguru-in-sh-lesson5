@@ -36,4 +36,4 @@ public class RegFormTests {
         $("#output").$("#currentAddress").shouldHave(text("Samara, Lenina street"));
         $("#output").$("#permanentAddress").shouldHave(text("Lenina street"));
     }
-    }
+}
